@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<img align="center" src="https://img.icons8.com/plasticine/2x/linkedin.png" alt="https://linkedin.com/in/juan-villalba-9aa4921a9" height="30" width="40" />
+<img align="center" src="https://img.icons8.com/officel/2x/linkedin.png" alt="https://linkedin.com/in/juan-villalba-9aa4921a9" height="30" width="40" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
