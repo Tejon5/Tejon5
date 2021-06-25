@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Juan Villalba from 🇦🇷</h1>
 <h3 align="center">I´m a Software Developer with abilities in backend and frontend. I´m a FullStack Developer.</h3>
-<h3 align="center">By the way, I´m always learning a little bit more, IT is like an infinte loop 👨‍💻, don´t you think so?.</h3>
+<h3 align="center">By the way, I´m always learning a little bit more, IT is like an infinite loop 👨‍💻, don´t you think so?.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejon5&label=Profile%20views&color=0e75b6&style=flat" alt="tejon5" /> </p>
 
