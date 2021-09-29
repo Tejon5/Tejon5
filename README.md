@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejon5&label=Profile%20views&color=0e75b6&style=flat" alt="tejon5" /> </p>
 
-- 🔭 I’m currently working on **personal proyects**
+- 🔭 I’m currently working in **Deniron - Software Factory**
 
 - 🌱 I’m currently learning **React Native**
 
